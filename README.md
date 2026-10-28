@@ -1,4 +1,4 @@
-# Eurasian Bittern 216839 – GPS-GSM track analysis
+# Eurasian Bittern – GPS-GSM track analysis
 
 Analysis code for the spring migration of a Eurasian Bittern (*Botaurus stellaris*) tagged at the Aras River Ornithological Station, Türkiye, in 2022.
 
